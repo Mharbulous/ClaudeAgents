@@ -56,3 +56,6 @@ ide/*.lock
 
 # Agent-generated todo files
 todos/
+
+# Projects folder
+projects/
