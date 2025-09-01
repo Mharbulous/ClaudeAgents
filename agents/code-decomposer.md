@@ -50,16 +50,6 @@ When analyzing a file for decomposition:
    - Ensure proper error handling is maintained
    - Verify that the module boundaries make logical sense
 
-8. **Update Implementation Plan** (if applicable): When decomposition was triggered by an implementation plan:
-   - Search for implementation plans in docs/plans/ or similar directories that reference the decomposed files
-   - Identify which plan contains the "key files" section that triggered this decomposition
-   - Update the key files section with:
-     - New line counts for all original files after decomposition
-     - Add entries for new files created during decomposition process
-     - Include any files that became "key" or architecturally significant during decomposition
-   - Preserve the original structure and formatting of the implementation plan
-   - Ensure the updated plan accurately reflects the post-decomposition file structure
-
 **Quality Standards**:
 - Each resulting file should be 200 lines or less
 - Each file should have a clear, singular purpose
