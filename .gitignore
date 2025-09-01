@@ -53,3 +53,6 @@ shell-snapshots/*.sh
 
 # Lock files (may contain paths)
 ide/*.lock
+
+# Agent-generated todo files
+todos/
