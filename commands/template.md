@@ -1,5 +1,5 @@
 Command Name: /your_command_name
-This is a template for creating a custom command in Claude Code.
+This is a template for creating a custom command in Claude Code.  Created September 1, 2025
 
 Instructions:
 
