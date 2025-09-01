@@ -51,7 +51,7 @@ This is a BINARY verification process - each element either passes (✅) or fail
 
 **OUTPUT REQUIREMENTS:**
 
-You must provide one of two outcomes:
+You must provide one of two outcomes that are ALWAYS visible to the user:
 
 **GATEKEEPING PASSED:**
 If all required elements are present and verified:
@@ -62,11 +62,14 @@ PASSPORT ISSUED
 
 The implementation plan has successfully passed all gatekeeping requirements and is approved for development.
 
-Verified Elements:
-- Executive Statement: Present and clear
-- Key Files: [X] files listed, all verified to exist with correct line counts
-- Implementation Steps: [X] numbered steps with proper complexity and risk estimates
-- All file paths verified and line counts confirmed
+Gatekeeping Review Summary:
+- ✅ Executive Statement: Present and clear
+- ✅ Key Files: [X] files listed, all verified to exist with correct line counts
+- ✅ Implementation Steps: [X] numbered steps with proper format
+- ✅ Complexity Estimates: Present for all steps
+- ✅ Breaking Risk Estimates: Present for all steps
+- ✅ Research Documentation: Present for all high complexity steps
+- ✅ Rollback Mechanisms: Present for all medium/high risk steps
 ```
 
 **GATEKEEPING FAILED:**
@@ -76,10 +79,14 @@ GATEKEEPING: FAILED ❌
 
 The implementation plan does not meet required gatekeeping standards.
 
-Missing/Incorrect Elements:
-- [Specific issue 1]
-- [Specific issue 2]
-- [etc.]
+Gatekeeping Review Summary:
+- ✅/❌ Executive Statement: [Present/Missing]
+- ✅/❌ Key Files: [Status and details]
+- ✅/❌ Implementation Steps: [Status and details]
+- ✅/❌ Complexity Estimates: [Status and details]
+- ✅/❌ Breaking Risk Estimates: [Status and details]
+- ✅/❌ Research Documentation: [Status and details]
+- ✅/❌ Rollback Mechanisms: [Status and details]
 
 Required Actions:
 - [Specific fix needed 1]
