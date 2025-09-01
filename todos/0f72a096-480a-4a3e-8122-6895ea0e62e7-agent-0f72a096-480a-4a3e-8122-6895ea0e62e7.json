@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Validate plan with plan-gatekeeper agent",
+    "status": "completed",
+    "activeForm": "Validating plan with plan-gatekeeper agent"
+  },
+  {
+    "content": "Analyze files over 300 lines for decomposition",
+    "status": "in_progress",
+    "activeForm": "Analyzing files over 300 lines for decomposition"
+  },
+  {
+    "content": "Review plan quality with plan-reviewer agent",
+    "status": "pending",
+    "activeForm": "Reviewing plan quality with plan-reviewer agent"
+  }
+]
