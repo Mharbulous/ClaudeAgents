@@ -1,6 +1,6 @@
 # Claude Workspace
 
-This repository contains my Claude workspace configuration and tools.
+This repository contains my Claude workspace configuration and tools.  Should be synced with:  https://github.com/Mharbulous/ClaudeCustomizations.git
 
 ## Structure
 
