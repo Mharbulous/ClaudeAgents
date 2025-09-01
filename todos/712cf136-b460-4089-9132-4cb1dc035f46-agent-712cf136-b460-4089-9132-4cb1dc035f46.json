@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Investigate tag ID generation vs category ID constraint system",
+    "status": "completed",
+    "activeForm": "Investigating tag ID generation vs category ID constraint system"
+  },
+  {
+    "content": "Fix tag deduplication by using category IDs as tag IDs",
+    "status": "in_progress",
+    "activeForm": "Fixing tag deduplication by using category IDs as tag IDs"
+  },
+  {
+    "content": "Test AI processing deduplication after fix",
+    "status": "pending",
+    "activeForm": "Testing AI processing deduplication after fix"
+  }
+]

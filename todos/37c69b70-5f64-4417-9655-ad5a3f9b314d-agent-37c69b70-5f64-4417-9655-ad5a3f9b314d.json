@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check for .claude folder in C:\\Users\\Brahm",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Search for other potential git-related hidden folders",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Examine .claude folder to determine if it's repository-related",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Remove any repository-related folders found",
+    "status": "completed",
+    "id": "4"
+  }
+]

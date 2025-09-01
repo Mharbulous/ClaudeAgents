@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Check if moved files exist in new locations",
+    "status": "completed",
+    "activeForm": "Checking if moved files exist in new locations"
+  },
+  {
+    "content": "Check if original files have been removed",
+    "status": "completed",
+    "activeForm": "Checking if original files have been removed"
+  },
+  {
+    "content": "Update checklist with accurate status",
+    "status": "in_progress",
+    "activeForm": "Updating checklist with accurate status"
+  }
+]

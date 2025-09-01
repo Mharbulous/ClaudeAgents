@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Clone Bookkeeper repository to C:\\Users\\Brahm\\Git\\Bookkeeper",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Set up VS Code workspace with both repositories",
+    "status": "completed",
+    "id": "2"
+  }
+]

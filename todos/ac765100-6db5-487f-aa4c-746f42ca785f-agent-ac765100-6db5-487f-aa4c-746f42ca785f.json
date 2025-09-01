@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Examine current project structure and Material Design setup",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create file upload component with Material Design",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Implement bulk folder upload with drag/drop support",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add individual file upload with drag/drop and file picker",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Integrate upload component into main application",
+    "status": "completed",
+    "id": "5"
+  }
+]

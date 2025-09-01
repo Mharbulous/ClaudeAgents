@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Analyze current duplicate file processing during upload",
+    "status": "completed",
+    "activeForm": "Analyzing current duplicate file processing during upload"
+  },
+  {
+    "content": "Implement duplicate file processing in upload queue",
+    "status": "completed",
+    "activeForm": "Implementing duplicate file processing in upload queue"
+  },
+  {
+    "content": "Add skipped upload event logging for duplicates",
+    "status": "completed",
+    "activeForm": "Adding skipped upload event logging for duplicates"
+  },
+  {
+    "content": "Implement metadata hash deduplication for duplicate files",
+    "status": "completed",
+    "activeForm": "Implementing metadata hash deduplication for duplicate files"
+  },
+  {
+    "content": "Update status dots from white to orange for skipped files",
+    "status": "completed",
+    "activeForm": "Updating status dots from white to orange for skipped files"
+  },
+  {
+    "content": "Test the complete duplicate file processing workflow",
+    "status": "in_progress",
+    "activeForm": "Testing the complete duplicate file processing workflow"
+  }
+]

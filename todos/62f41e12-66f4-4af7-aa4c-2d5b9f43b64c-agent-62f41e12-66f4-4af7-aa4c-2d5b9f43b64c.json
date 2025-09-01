@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create useLazyFileList composable for managing loaded state",
+    "status": "completed",
+    "activeForm": "Creating useLazyFileList composable for managing loaded state"
+  },
+  {
+    "content": "Modify FileUploadQueue.vue lines 136-252 to use conditional rendering",
+    "status": "in_progress",
+    "activeForm": "Modifying FileUploadQueue.vue lines 136-252 to use conditional rendering"
+  },
+  {
+    "content": "Test lazy loading functionality with placeholder performance",
+    "status": "pending",
+    "activeForm": "Testing lazy loading functionality with placeholder performance"
+  }
+]

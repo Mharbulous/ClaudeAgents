@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Trace file processing completion flow to find missing cleanup",
+    "status": "in_progress",
+    "activeForm": "Tracing file processing completion flow to find missing cleanup"
+  },
+  {
+    "content": "Add proper completion cleanup to stop time monitoring",
+    "status": "pending",
+    "activeForm": "Adding proper completion cleanup to stop time monitoring"
+  },
+  {
+    "content": "Test completion cleanup with folder upload",
+    "status": "pending",
+    "activeForm": "Testing completion cleanup with folder upload"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Enhance file count mismatch detection logic in useFolderOptions.js",
+    "status": "completed",
+    "activeForm": "Enhancing file count mismatch detection logic"
+  },
+  {
+    "content": "Store blocked count and pass it through processing pipeline",
+    "status": "completed",
+    "activeForm": "Storing blocked count and passing through pipeline"
+  },
+  {
+    "content": "Update FileQueueChips.vue to receive blocked count prop",
+    "status": "completed",
+    "activeForm": "Updating FileQueueChips to receive blocked count prop"
+  },
+  {
+    "content": "Test blocked files detection with various folder sizes",
+    "status": "in_progress",
+    "activeForm": "Testing blocked files detection with various folder sizes"
+  }
+]

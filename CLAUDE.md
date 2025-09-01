@@ -1,0 +1,1 @@
+- When creating documentation, maintain a single source of truth for documentation.  When documentation subjects overlap, maintain the earlier document as the single source of truth, and have the secondary include a reference to the single source of truth.

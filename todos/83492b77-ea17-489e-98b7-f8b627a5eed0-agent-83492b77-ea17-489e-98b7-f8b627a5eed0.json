@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Set up organizer-1 folder structure for legacy code",
+    "status": "completed",
+    "activeForm": "Setting up organizer-1 folder structure for legacy code"
+  },
+  {
+    "content": "Move pure legacy files to organizer-1",
+    "status": "in_progress",
+    "activeForm": "Moving pure legacy files to organizer-1"
+  },
+  {
+    "content": "Move hybrid/compatibility files to organizer-2",
+    "status": "pending",
+    "activeForm": "Moving hybrid/compatibility files to organizer-2"
+  },
+  {
+    "content": "Keep only pure new code in organizer",
+    "status": "pending",
+    "activeForm": "Keeping only pure new code in organizer"
+  },
+  {
+    "content": "Test app functionality after separation",
+    "status": "pending",
+    "activeForm": "Testing app functionality after separation"
+  }
+]

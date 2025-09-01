@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Analyze console log patterns and CSV header requirements",
+    "status": "in_progress",
+    "activeForm": "Analyzing console log patterns and CSV header requirements"
+  },
+  {
+    "content": "Create PowerShell script to parse FOLDER_ANALYSIS_DATA entries",
+    "status": "pending",
+    "activeForm": "Creating PowerShell script to parse FOLDER_ANALYSIS_DATA entries"
+  },
+  {
+    "content": "Create PowerShell script to parse timing data entries",
+    "status": "pending",
+    "activeForm": "Creating PowerShell script to parse timing data entries"
+  },
+  {
+    "content": "Test and validate the PowerShell script",
+    "status": "pending",
+    "activeForm": "Testing and validating the PowerShell script"
+  }
+]

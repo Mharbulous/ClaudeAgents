@@ -1,0 +1,57 @@
+[
+  {
+    "content": "Complete pre-testing setup verification",
+    "status": "completed",
+    "activeForm": "Completing pre-testing setup verification"
+  },
+  {
+    "content": "Run Test Case 1: Basic AI Processing Workflow (HIGH PRIORITY)",
+    "status": "completed",
+    "activeForm": "Running Test Case 1: Basic AI Processing Workflow"
+  },
+  {
+    "content": "Fix file storage path issue in AI service",
+    "status": "completed",
+    "activeForm": "Fixing file storage path issue in AI service"
+  },
+  {
+    "content": "Enable Firebase AI API in Firebase Console",
+    "status": "completed",
+    "activeForm": "Enabling Firebase AI API in Firebase Console"
+  },
+  {
+    "content": "Fix AI file processing to use base64 inline data",
+    "status": "completed",
+    "activeForm": "Fixing AI file processing to use base64 inline data"
+  },
+  {
+    "content": "Test updated AI processing functionality",
+    "status": "in_progress",
+    "activeForm": "Testing updated AI processing functionality"
+  },
+  {
+    "content": "Run Test Case 2: AI Tag Review & Approval (HIGH PRIORITY)",
+    "status": "pending",
+    "activeForm": "Running Test Case 2: AI Tag Review & Approval"
+  },
+  {
+    "content": "Run Test Case 3: Error Handling & Edge Cases",
+    "status": "completed",
+    "activeForm": "Running Test Case 3: Error Handling & Edge Cases"
+  },
+  {
+    "content": "Run Test Case 4: Backward Compatibility (HIGH PRIORITY)",
+    "status": "completed",
+    "activeForm": "Running Test Case 4: Backward Compatibility"
+  },
+  {
+    "content": "Run Test Case 5: Visual Integration & User Experience",
+    "status": "completed",
+    "activeForm": "Running Test Case 5: Visual Integration & User Experience"
+  },
+  {
+    "content": "Document test results and any issues found",
+    "status": "pending",
+    "activeForm": "Documenting test results and any issues found"
+  }
+]

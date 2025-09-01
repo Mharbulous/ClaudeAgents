@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Decompose categoryStore.js into focused modules",
+    "status": "completed",
+    "activeForm": "Decomposing categoryStore.js into focused modules"
+  },
+  {
+    "content": "Decompose FileListItem.vue into smaller components",
+    "status": "in_progress",
+    "activeForm": "Decomposing FileListItem.vue into smaller components"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Implement real-time predictor data updates in FolderOptionsDialog",
+    "status": "in_progress",
+    "activeForm": "Implementing real-time predictor data updates"
+  },
+  {
+    "content": "Add progress indicators for calculation status",
+    "status": "pending",
+    "activeForm": "Adding progress indicators for calculation status"
+  },
+  {
+    "content": "Implement 'This folder only' completion flow with continue button state",
+    "status": "pending",
+    "activeForm": "Implementing 'This folder only' completion flow"
+  },
+  {
+    "content": "Implement 'Include subfolders' radio button enabling logic",
+    "status": "pending",
+    "activeForm": "Implementing 'Include subfolders' radio button enabling logic"
+  },
+  {
+    "content": "Add automatic selection switch to 'Include subfolders' when ready",
+    "status": "pending",
+    "activeForm": "Adding automatic selection switch to 'Include subfolders'"
+  },
+  {
+    "content": "Add 1-second delay before enabling Continue button for subfolders",
+    "status": "pending",
+    "activeForm": "Adding 1-second delay before enabling Continue button"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Remove AppSwitcher from header",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add AppSwitcher dropdown to Home button in sidebar",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update AppSwitcher styling to match dark sidebar theme",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update app list with correct icons (📚 BookKeeper, 📇 Intranet)",
+    "status": "completed",
+    "id": "4"
+  }
+]

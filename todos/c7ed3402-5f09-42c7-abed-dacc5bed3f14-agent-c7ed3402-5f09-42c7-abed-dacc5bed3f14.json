@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Remove originalPath field from metadata record",
+    "status": "in_progress",
+    "activeForm": "Removing originalPath field from metadata record"
+  },
+  {
+    "content": "Update debug logging to remove originalPath references",
+    "status": "pending",
+    "activeForm": "Updating debug logging to remove originalPath references"
+  },
+  {
+    "content": "Test the simplified implementation",
+    "status": "pending",
+    "activeForm": "Testing the simplified implementation"
+  }
+]

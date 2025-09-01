@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Implement file size-based priority processing (small files first for instant feedback)",
+    "status": "completed",
+    "id": "priority-processing"
+  },
+  {
+    "content": "Add result caching for duplicate checks to reduce Firestore queries",
+    "status": "completed",
+    "id": "result-caching"
+  },
+  {
+    "content": "Replace current hash calculation with chunked approach for large files",
+    "status": "completed",
+    "id": "chunked-hashing"
+  },
+  {
+    "content": "Implement debounced UI updates using requestAnimationFrame",
+    "status": "completed",
+    "id": "debounced-ui"
+  },
+  {
+    "content": "Optimize Firestore batch queries with parallel chunk processing",
+    "status": "completed",
+    "id": "parallel-queries"
+  },
+  {
+    "content": "Add performance metrics tracking to measure improvements",
+    "status": "completed",
+    "id": "performance-metrics"
+  }
+]

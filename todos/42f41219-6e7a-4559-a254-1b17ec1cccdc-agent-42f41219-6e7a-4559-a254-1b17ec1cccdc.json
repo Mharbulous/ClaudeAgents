@@ -1,0 +1,82 @@
+[
+  {
+    "content": "Complete pre-testing setup verification",
+    "status": "completed",
+    "activeForm": "Completing pre-testing setup verification"
+  },
+  {
+    "content": "Run Test Case 1: Basic AI Processing Workflow (HIGH PRIORITY)",
+    "status": "completed",
+    "activeForm": "Running Test Case 1: Basic AI Processing Workflow"
+  },
+  {
+    "content": "Fix file storage path issue in AI service",
+    "status": "completed",
+    "activeForm": "Fixing file storage path issue in AI service"
+  },
+  {
+    "content": "Enable Firebase AI API in Firebase Console",
+    "status": "completed",
+    "activeForm": "Enabling Firebase AI API in Firebase Console"
+  },
+  {
+    "content": "Fix AI file processing to use base64 inline data",
+    "status": "completed",
+    "activeForm": "Fixing AI file processing to use base64 inline data"
+  },
+  {
+    "content": "Update roadmap documents with priority-based review approach",
+    "status": "completed",
+    "activeForm": "Updating roadmap documents with priority-based review approach"
+  },
+  {
+    "content": "Document Firebase Storage CORS configuration task",
+    "status": "completed",
+    "activeForm": "Documenting Firebase Storage CORS configuration task"
+  },
+  {
+    "content": "Update functional testing plan with current progress",
+    "status": "completed",
+    "activeForm": "Updating functional testing plan with current progress"
+  },
+  {
+    "content": "Verify Firebase Storage CORS configuration",
+    "status": "completed",
+    "activeForm": "Verifying Firebase Storage CORS configuration"
+  },
+  {
+    "content": "Test AI processing with full document content analysis",
+    "status": "completed",
+    "activeForm": "Testing AI processing with full document content analysis"
+  },
+  {
+    "content": "Verify AI tag quality and accuracy",
+    "status": "completed",
+    "activeForm": "Verifying AI tag quality and accuracy"
+  },
+  {
+    "content": "Fix console errors from AI processing",
+    "status": "completed",
+    "activeForm": "Fixing console errors from AI processing"
+  },
+  {
+    "content": "Remove modal review interface - apply AI tags directly",
+    "status": "completed",
+    "activeForm": "Removing modal review interface and applying AI tags directly"
+  },
+  {
+    "content": "Update planning documents to reflect streamlined AI workflow",
+    "status": "completed",
+    "activeForm": "Updating planning documents to reflect streamlined AI workflow"
+  },
+  {
+    "content": "Integrate visual distinction system into tag migration plan",
+    "status": "completed",
+    "activeForm": "Integrating visual distinction system into tag migration plan"
+  },
+  {
+    "content": "Document successful AI processing test results",
+    "status": "pending",
+    "activeForm": "Documenting successful AI processing test results"
+  }
+]

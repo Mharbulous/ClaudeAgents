@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Examine the App Switcher implementation in Coryphaeus",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update Intranet navigation to include App Switcher with 'Intranet' as top button",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update Bookkeeper navigation to include App Switcher with 'Book Keeper' as top button",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test the App Switcher functionality in both apps",
+    "status": "in_progress",
+    "id": "4"
+  }
+]

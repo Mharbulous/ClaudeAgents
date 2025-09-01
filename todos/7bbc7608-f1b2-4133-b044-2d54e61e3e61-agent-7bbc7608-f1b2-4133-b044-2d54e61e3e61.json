@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Update TagSubcollectionService for new tag structure with AI suggestions array and human verification",
+    "status": "in_progress",
+    "activeForm": "Updating TagSubcollectionService for new structure"
+  },
+  {
+    "content": "Update evidence document structure to use fileHash, fileExtension, isProcessed, hasAllPages",
+    "status": "pending",
+    "activeForm": "Updating evidence document structure"
+  },
+  {
+    "content": "Update AI tag service to store multiple AI suggestions per category",
+    "status": "pending",
+    "activeForm": "Updating AI tag service for multi-suggestion structure"
+  },
+  {
+    "content": "Update TagSelector component for new tag structure with verification workflow",
+    "status": "pending",
+    "activeForm": "Updating TagSelector for verification workflow"
+  },
+  {
+    "content": "Update supporting components (FileListItemTags, AITagChip) for new structure",
+    "status": "pending",
+    "activeForm": "Updating supporting components"
+  },
+  {
+    "content": "Update migration service for new target structure",
+    "status": "pending",
+    "activeForm": "Updating migration service"
+  },
+  {
+    "content": "Update Firebase security rules for new tag structure",
+    "status": "pending",
+    "activeForm": "Updating Firebase security rules"
+  }
+]

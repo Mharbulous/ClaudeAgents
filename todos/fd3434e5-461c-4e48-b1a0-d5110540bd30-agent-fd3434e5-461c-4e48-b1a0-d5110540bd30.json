@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Investigate routing issue with File Upload Center",
+    "status": "in_progress",
+    "activeForm": "Investigating routing issue with File Upload Center"
+  },
+  {
+    "content": "Check router configuration for FileUpload route",
+    "status": "pending",
+    "activeForm": "Checking router configuration"
+  },
+  {
+    "content": "Verify FileUpload.vue component in new location",
+    "status": "pending",
+    "activeForm": "Verifying FileUpload component"
+  },
+  {
+    "content": "Test navigation to File Upload Center",
+    "status": "pending",
+    "activeForm": "Testing navigation"
+  }
+]

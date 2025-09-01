@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Analyze current AppSwitcher component structure",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create new Material Design 3 AppSwitcher component",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update AppSidebar to use new dropdown implementation",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test dropdown functionality and accessibility",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Verify focus management works correctly",
+    "status": "completed",
+    "id": "5"
+  }
+]

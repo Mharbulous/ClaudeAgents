@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Update firebase-storage-plan.md to rename 'upload_attempts' to 'upload_logs'",
+    "status": "in_progress",
+    "id": "todo-1"
+  },
+  {
+    "content": "Check if there are other documentation files that need the same update",
+    "status": "pending",
+    "id": "todo-2"
+  }
+]

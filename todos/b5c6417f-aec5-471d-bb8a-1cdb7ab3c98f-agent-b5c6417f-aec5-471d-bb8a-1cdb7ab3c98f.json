@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Remove legacy arrays from document creation",
+    "status": "completed",
+    "activeForm": "Removing legacy arrays from document creation"
+  },
+  {
+    "content": "Remove fallback logic from TagSelector component",
+    "status": "completed",
+    "activeForm": "Removing fallback logic from TagSelector component"
+  },
+  {
+    "content": "Remove fallback logic from FileListItemTags component",
+    "status": "completed",
+    "activeForm": "Removing fallback logic from FileListItemTags component"
+  },
+  {
+    "content": "Update query services for pure subcollection approach",
+    "status": "completed",
+    "activeForm": "Updating query services for pure subcollection approach"
+  },
+  {
+    "content": "Remove migration components and logic",
+    "status": "completed",
+    "activeForm": "Removing migration components and logic"
+  },
+  {
+    "content": "Clean up store methods",
+    "status": "completed",
+    "activeForm": "Cleaning up store methods"
+  },
+  {
+    "content": "Test clean implementation",
+    "status": "in_progress",
+    "activeForm": "Testing clean implementation"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Investigate why background processes continue after cleanup",
+    "status": "in_progress",
+    "activeForm": "Investigating why background processes continue after cleanup"
+  },
+  {
+    "content": "Add stronger guards to prevent processing after cleanup",
+    "status": "pending",
+    "activeForm": "Adding stronger guards to prevent processing after cleanup"
+  },
+  {
+    "content": "Fix the processFilesWithQueue guard mechanism",
+    "status": "pending",
+    "activeForm": "Fixing the processFilesWithQueue guard mechanism"
+  },
+  {
+    "content": "Test that no background processes continue after Clear All",
+    "status": "pending",
+    "activeForm": "Testing that no background processes continue after Clear All"
+  }
+]

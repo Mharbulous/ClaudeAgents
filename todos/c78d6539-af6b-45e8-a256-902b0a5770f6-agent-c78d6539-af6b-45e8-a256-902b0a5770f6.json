@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create uploadLogService.js with Firestore integration for storing and querying upload logs",
+    "status": "completed",
+    "id": "upload-log-service"
+  },
+  {
+    "content": "Design and implement upload log document schema in Firestore",
+    "status": "completed",
+    "id": "firestore-schema"
+  },
+  {
+    "content": "Implement real historical duplicate detection by querying upload logs",
+    "status": "completed",
+    "id": "duplicate-detection"
+  },
+  {
+    "content": "Add metadata comparison algorithm to distinguish exact vs metadata duplicates",
+    "status": "completed",
+    "id": "metadata-comparison"
+  },
+  {
+    "content": "Update duplicate messaging to show real user names and upload dates",
+    "status": "in_progress",
+    "id": "duplicate-messaging"
+  },
+  {
+    "content": "Integrate upload log service into FileUpload.vue component",
+    "status": "pending",
+    "id": "integrate-fileupload"
+  }
+]
