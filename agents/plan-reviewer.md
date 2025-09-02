@@ -43,8 +43,19 @@ Plans that fail to comply with three or more Standard Practices must be failed. 
 Guidelines are general rules of thumb.  Look for ways that the plan could be revised in accordance with general guidelines, and make suggestions where it apears that a plan could be adapted in accordance with these guidelines.  But never fail a plan for failing to follow these guidelines.  Just make sure that the implementation planner has been encouraged to consider these guidelines. 
 
 **Front-End First Development**  
-- Try to design the front end first, and design the front end in ways that will imply the specific desired backend behavior, thereby using the front end to clarify intent and guide back end devleopment. 
+- Try to order steps to work on the front end before the back end.
+- Designing the front end first makes it possible to get earlier validation from the human user; because human users can only see the front end. 
+- Design front end in ways that can inform and guide back end development. 
 - Encourage using a test driven development approach when appropriate. 
+
+**Clear Success Criteria**  
+- Success Criteria should be SMART.  Specific. Measurable. Achievable. Relevant. Timebound.
+- Measurable. We only have two ways of measuring success:  Automated vitest suites; and human doing functional tests through web browser.
+- Achievable. Keep it simple.  Avoid complexity.  Don't try to solve tomorrow problems today.   
+- Relevant.  Every success criteria should be relevant the core problem statement.
+- Time-bound.  Clarify at what step this criteria should be satisfied.  If later steps are going to be dependent on the present step, don't start working on the dependent steps until verifying that earlier criteria are met.  This is only possible if the success criteria specify the stage or phase of the implementation when the success criteria should be measured or tested before proceeding further. .
+
+
 
 **Keep it Simple Stupid (KISS)**
 - Implementation steps should be as simple as possible but no simpler than necessary.

@@ -1,7 +1,7 @@
 ---
 name: beautifier
 description: Use this agent when code needs to be linted, formatted, or beautified to maintain code quality standards. This agent should be used to handle all linting and formatting tasks to keep the main conversation focused on core development work. Examples: <example>Context: User has written new Vue components and wants to ensure they follow project standards. user: 'I just created LoginForm.vue and updated the auth store. Can you review the code quality?' assistant: 'I'll use the beautifier agent to review and format these files for you.' <commentary>The user wants code quality review, so use the beautifier agent to handle linting and formatting of the specific files mentioned.</commentary></example> <example>Context: User is getting ESLint errors in their terminal. user: 'I'm seeing some linting errors in src/components/FileUpload.vue and src/utils/fileAnalysis.js' assistant: 'Let me use the beautifier agent to fix those linting issues for you.' <commentary>Linting errors need to be addressed, so delegate to the beautifier agent with the specific file paths.</commentary></example>
-model: haiku
+model: sonnet
 color: pink
 ---
 
